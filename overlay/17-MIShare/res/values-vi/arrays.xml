@@ -16,8 +16,8 @@
     </string-array>
     <string-array name="permissions_desc_v12_china">
         <item>Để gửi và nhận tập tin</item>
-        <item>Để chuyển tập tin bằng Bluetooth và WLAN</item>
+        <item>Để chuyển tập tin bằng Bluetooth và Wi-Fi</item>
         <item>Để tìm thiết bị lân cận khả dụng bằng Bluetooth</item>
-        <item>Để tìm thiết bị lân cận khả dụng và chuyển tập tin bằng WLAN</item>
+        <item>Để tìm thiết bị lân cận khả dụng và chuyển tập tin bằng Wi-Fi</item>
     </string-array>
 </resources>
