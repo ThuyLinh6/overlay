@@ -8,7 +8,7 @@
 <string name="notification_channel_network_alerts">Thông báo mạng</string>
 <string name="notification_channel_network_available">Mạng có sẵn</string>
 <string name="notification_channel_network_status">Tình trạng mạng</string>
-<string name="wifiResourcesAppLabel">Tài nguyên WLAN Hệ thống</string>
+<string name="wifiResourcesAppLabel">Tài nguyên Wi-Fi Hệ thống</string>
 <string name="wifi_available_action_all_networks">Tất cả mạng</string>
 <string name="wifi_available_action_connect">Kết nối</string>
 <string name="wifi_available_content_failed_to_connect">Chạm để xem tất cả mạng</string>
@@ -128,6 +128,6 @@ Thay đổi này có thể cho phép vị trí của thiết bị của bạn b�
 <string name="wifi_wakeup_onboarding_action_disable">Không bật lại</string>
 <string name="wifi_wakeup_onboarding_subtext">Khi bạn gần một mạng đã lưu có chất lượng cao</string>
 <string name="wifi_wakeup_onboarding_title">Wi‑Fi sẽ tự động bật</string>
-<string name="wifi_watchdog_network_disabled">Không thể kết nối với WLAN</string>
+<string name="wifi_watchdog_network_disabled">Không thể kết nối với Wi-Fi</string>
 <string name="wifi_watchdog_network_disabled_detailed"> có kết nối internet kém.</string>
 </resources>
